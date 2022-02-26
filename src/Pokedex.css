@@ -1,0 +1,15 @@
+.Pokedex {
+    text-align: center;
+}
+
+
+.Poke-cards {
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+.Poke-winner {
+    color: green;
+
+}
